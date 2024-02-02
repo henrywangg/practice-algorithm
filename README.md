@@ -22,7 +22,7 @@ Starting with n = 12, the steps would be as follows:
 9. 2
 10. 1
 
-Resulting in 9 steps. So for input n = 12, the return value would be 9.
+Resulting in 9 steps. So for input `n = 12`, the return value would be 9.
 
 If `n` is not a positive integer, stop the program from being executed further and return an error message.
 
